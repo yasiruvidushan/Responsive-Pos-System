@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pos System/CSS.iml" filepath="$PROJECT_DIR$/Pos System/CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Html Project.iml" filepath="$PROJECT_DIR$/Html Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pos System/Pos System.iml" filepath="$PROJECT_DIR$/Pos System/Pos System.iml" />
+    </modules>
+  </component>
+</project>
